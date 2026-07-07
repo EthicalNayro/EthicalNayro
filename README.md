@@ -14,7 +14,7 @@ I am a driven **DevOps & Cybersecurity Student** with a solid engineering founda
 
 ---
 
-### ⚙️ What tools do you use?
+## 🛠️ Technical Toolkit
 
 * **OS & Shells:** `Linux (RHEL, Ubuntu)` | `Windows Server` | `Bash` | `PowerShell`
 * **DevOps & Cloud:** `AWS (EC2, VPC, S3, RDS)` | `Docker` | `Docker Compose` | `Git / GitHub` | `CI/CD basics`
