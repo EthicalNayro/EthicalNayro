@@ -59,7 +59,7 @@
     </td>
     <td width="50%" valign="top">
       <h3>🔒 Security & Networking</h3>
-      <img src="[https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white]https://tryhackme.com/EthicalNayro/badges/metasploitable?utm_campaign=social_share&utm_medium=social&utm_content=badge&utm_source=copy&sharerId=698330f6cb61e7852f026aea" />
+      <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" />
       <img src="https://img.shields.io/badge/Nmap-00599C?style=flat-square" />
       <img src="https://img.shields.io/badge/Metasploit-000000?style=flat-square" />
       <img src="https://img.shields.io/badge/Burp_Suite-FF6600?style=flat-square" />
@@ -82,11 +82,36 @@
 
 ---
 
-## 📈 GitHub Metrics
+## 🏆 Verified TryHackMe Certifications & Badges
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oryanroas&layout=compact&theme=radial&hide_border=true" alt="Top Languages" />
+  <a href="https://tryhackme.com/EthicalNayro/badges/network-fundamentals" target="_blank">
+    <img src="https://img.shields.io/badge/Network_Fundamentals-Earning_Badge-0078D4?style=for-the-badge&logo=tryhackme&logoColor=white" alt="Network Fundamentals Badge" />
+  </a>
+  <a href="https://tryhackme.com/EthicalNayro/badges/web-fund" target="_blank">
+    <img src="https://img.shields.io/badge/Web_Fundamentals-Earning_Badge-E34F26?style=for-the-badge&logo=tryhackme&logoColor=white" alt="Web Fundamentals Badge" />
+  </a>
+  <a href="https://tryhackme.com/EthicalNayro/badges/terminaled" target="_blank">
+    <img src="https://img.shields.io/badge/Linux_%26_Windows_Terminals-Earning_Badge-4EAA25?style=for-the-badge&logo=tryhackme&logoColor=white" alt="Terminaled Badge" />
+  </a>
+  <br><br>
+  <a href="https://tryhackme.com/EthicalNayro/badges/metasploitable" target="_blank">
+    <img src="https://img.shields.io/badge/Metasploitable_Exploitation-Earning_Badge-FF5733?style=for-the-badge&logo=tryhackme&logoColor=white" alt="Metasploitable Badge" />
+  </a>
+  <a href="https://tryhackme.com/EthicalNayro/badges/blue" target="_blank">
+    <img src="https://img.shields.io/badge/Blue_Team_Fundamentals-Earning_Badge-00599C?style=for-the-badge&logo=tryhackme&logoColor=white" alt="Blue Badge" />
+  </a>
 </p>
+
+---
+
+## 👾 My Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/oryanroas/oryanroas/main/.github/images/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/oryanroas/oryanroas/main/.github/images/github-snake.svg">
+  <img alt="GitHub Summary Snake" src="https://raw.githubusercontent.com/oryanroas/oryanroas/main/.github/images/github-snake-dark.svg" width="100%">
+</picture>
 
 ---
 
