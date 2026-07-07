@@ -101,7 +101,3 @@
 </picture>
 
 ---
-
-<p align="center">
-  📧 Get in touch: <b>[YOUR_EMAIL]</b>
-</p>
