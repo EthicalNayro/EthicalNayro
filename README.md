@@ -1,6 +1,5 @@
 # Hi there, EthicalNayro here! 👋
 
-### 👤 Who are you?
 I am a driven **DevOps & Cybersecurity Student** with a solid engineering foundation and a highly disciplined analytical mindset. My background is built on a framework of analyzing complex systems—combining precision hardware engineering and assembly in the aerospace industry (Israel Aerospace Industries) with structured risk management and data-driven execution from financial markets trading. I channel this troubleshooting mindset and attention to detail into engineering secure, automated, and resilient cloud environments.
 
 * 🛡️ **Cybersecurity:** Ranked in the **Top 8% globally** on TryHackMe (`EthicalNayro`).
