@@ -6,7 +6,8 @@ I am a driven **DevOps & Cybersecurity Student** with a solid engineering founda
 
 ---
 
-### 🚀 What are you currently working on?
+### 🚀 Currently working on?
+
 * 💻 Completing intensive infrastructure and security engineering training at *Nitzanim to Tech*.
 * 🐍 Developing automated system configuration and deployment scripts using Python and Bash.
 * ☁️ Provisioning and structuring secure cloud environments across AWS services (VPC, EC2, S3, RDS).
