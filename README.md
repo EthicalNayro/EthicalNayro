@@ -59,7 +59,7 @@
     </td>
     <td width="50%" valign="top">
       <h3>🔒 Security & Networking</h3>
-      <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" />
+      <img src="[https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white]https://tryhackme.com/EthicalNayro/badges/metasploitable?utm_campaign=social_share&utm_medium=social&utm_content=badge&utm_source=copy&sharerId=698330f6cb61e7852f026aea" />
       <img src="https://img.shields.io/badge/Nmap-00599C?style=flat-square" />
       <img src="https://img.shields.io/badge/Metasploit-000000?style=flat-square" />
       <img src="https://img.shields.io/badge/Burp_Suite-FF6600?style=flat-square" />
