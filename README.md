@@ -16,7 +16,6 @@
       <p>I channel this troubleshooting mindset and sharp attention to detail into engineering secure, automated, and resilient cloud environments.</p>
     </td>
     <td width="40%" valign="center" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=EthicalNayro&show_icons=true&theme=radial&hide_border=true&count_private=true" width="100%" alt="GitHub Stats" />
     </td>
   </tr>
 </table>
